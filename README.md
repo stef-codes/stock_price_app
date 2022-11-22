@@ -1,4 +1,4 @@
-# stock Price App
+# Stock Price App
 Using streamlit to display stock prices
 
 
